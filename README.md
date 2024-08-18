@@ -1,2 +1,2 @@
-# react-one
-laboratorios prácticos para aprender desde cero
+# primeros pasos con git hub
+laboratorios prácticos para aprender desde cer

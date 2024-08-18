@@ -1,0 +1,8 @@
+.collection {
+    text-align: left;
+    padding: 20px;
+  }
+  
+  .collection h2 span {
+    color: orange;
+  }
